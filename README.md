@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer and Designer
 ----------------------
 
-Hello, I’m Thitaree Lamsan “Kwan” , a high school student passionate about software, AI, and backend development, with a focus on personalized learning and technology that benefits society. I’ve gained hands-on experience through projects like an Adaptive Learning Chatbot and a smart collar for pets, and I’m excited to pursue Computer Engineering to further contribute to tech innovation.
+Hello, I’m Thitaree Lumsan “Kwan” , a high school student passionate about software, AI, and backend development, with a focus on personalized learning and technology that benefits society. I’ve gained hands-on experience through projects like an Adaptive Learning Chatbot and a smart collar for pets, and I’m excited to pursue Computer Engineering to further contribute to tech innovation.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [thitaree1811@gmail.com](mailto:thitaree1811@gmail.com)
