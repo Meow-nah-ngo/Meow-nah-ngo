@@ -1,33 +1,178 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kwan
-============================================================================================================================
+<div align="center">
 
-Developer and Designer
-----------------------
+# THITAREE LUMSAN
 
-Hello, I’m Thitaree Lumsan “Kwan” , a high school student passionate about software, AI, and backend development, with a focus on personalized learning and technology that benefits society. I’ve gained hands-on experience through projects like an Adaptive Learning Chatbot and a smart collar for pets, and I’m excited to pursue Computer Engineering to further contribute to tech innovation.
+### Information Technology Student • Full Stack Developer • AI Engineer • UX/UI Designer
 
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [thitaree1811@gmail.com](mailto:thitaree1811@gmail.com)
-* 🧠  I'm learning "How to Become the FullstackDeveloper". I like UxUi but also like Program
-* 🤝  I'm open to collaborating on iDetect the Yolo+EasyOCR ,UxUi
-* ⚡  I'm secretly Wanderwoman, CHAT SAID!!!!!
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2000&center=true&vCenter=true&width=700&lines=Building+technology+that+solves+real-world+problems.;Full+Stack+Developer.;UX%2FUI+Designer.;Artificial+Intelligence+Explorer."/>
 
-### Skills
+<br>
 
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&color=blue"/>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
+</div>
+
+---
+
+## About Me
+
+I'm an Information Technology student passionate about building software that creates real impact.
+
+I enjoy combining **Software Engineering**, **Artificial Intelligence**, **UX/UI Design**, and **Data Analytics** to transform ideas into products people genuinely love using.
+
+Currently exploring scalable web applications, machine learning, and modern cloud technologies.
+
+---
+
+## Current Focus
+
+```text
+Frontend      ████████████ 95%
+
+Backend       ██████████░░ 85%
+
+Artificial AI █████████░░░ 80%
+
+UX/UI Design  ███████████░ 92%
+
+Cloud         ███████░░░░░ 65%
+```
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css"/>
 </p>
 
+### Frontend
 
-### Socials
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind"/>
+</p>
 
-<p align="left"> <a href="https://discord.com/users/meownahngo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Meow-nah-ngo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/k_thxl" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/thitaree-lumsan-012b93325" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Backend
 
-### Badges
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+</p>
 
-<b>My GitHub Stats</b>
+### Database
 
-<a href="http://www.github.com/Meow-nah-ngo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Meow-nah-ngo&stroke=ffffff&background=171717&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+</p>
 
-<a href="https://github.com/Meow-nah-ngo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meow-nah-ngo&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,git,github,docker,linux,vscode"/>
+</p>
+
+---
+
+# Featured Projects
+
+## Adaptive Learning Platform
+
+AI-powered personalized Python learning platform using Large Language Models.
+
+**Tech**
+
+Python • Flask • LLM API • React
+
+---
+
+## License Plate Recognition
+
+Automatic license plate recognition using YOLOv8, EasyOCR, OpenCV and Flask API.
+
+**Tech**
+
+YOLOv8 • EasyOCR • OpenCV • Flask
+
+---
+
+## Smart Pet Collar
+
+IoT and AI wearable device designed to monitor pet health and activity.
+
+**Tech**
+
+IoT • Dashboard • AI • UX/UI
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&hide_border=true&theme=transparent"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&hide_border=true&theme=transparent"/>
+
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=github-compact"/>
+
+</p>
+
+---
+
+## Currently Learning
+
+- System Design
+- Cloud Computing
+- Machine Learning
+- Next.js
+- Docker
+- Kubernetes
+
+---
+
+## Let's Connect
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://YOURPORTFOLIO.com">
+🌐 Portfolio
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Great products begin with empathy, engineering, and curiosity."
+
+</div>
