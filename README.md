@@ -112,24 +112,6 @@ IoT • Dashboard • AI • UX/UI
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Meow-nah-ngo&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meow-nah-ngo&layout=compact&hide_border=true&theme=transparent"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&hide_border=true&theme=transparent"/>
-
-</p>
-
----
-
 ## Contribution Graph
 
 <p align="center">
