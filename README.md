@@ -137,7 +137,7 @@ IoT • Dashboard • AI • UX/UI
 
 <p align="left">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thitaree-lumsan-012b93325/">
+<a href="https://www.linkedin.com/in/thitaree-lumsan-012b93325/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
