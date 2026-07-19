@@ -116,7 +116,7 @@ IoT • Dashboard • AI • UX/UI
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meow-nah-ngo&theme=github-compact"/>
 
 </p>
 
