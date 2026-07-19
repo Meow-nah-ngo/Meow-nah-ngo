@@ -2,7 +2,7 @@
 
 # THITAREE LUMSAN
 
-### Information Technology Student • Full Stack Developer • AI Engineer • UX/UI Designer
+### Computer Science Student • Full Stack Developer • AI Engineer • UX/UI Designer
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2000&center=true&vCenter=true&width=700&lines=Building+technology+that+solves+real-world+problems.;Full+Stack+Developer.;UX%2FUI+Designer.;Artificial+Intelligence+Explorer."/>
 
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm an Information Technology student passionate about building software that creates real impact.
+I'm an Computer Science student passionate about building software that creates real impact.
 
 I enjoy combining **Software Engineering**, **Artificial Intelligence**, **UX/UI Design**, and **Data Analytics** to transform ideas into products people genuinely love using.
 
@@ -161,10 +161,6 @@ IoT • Dashboard • AI • UX/UI
 
 <a href="mailto:YOURMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://YOURPORTFOLIO.com">
-🌐 Portfolio
 </a>
 
 </p>
