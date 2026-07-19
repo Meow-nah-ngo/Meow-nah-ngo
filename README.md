@@ -155,11 +155,11 @@ IoT • Dashboard • AI • UX/UI
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR-LINK">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/thitaree-lumsan-012b93325/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:thitaree1811@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
