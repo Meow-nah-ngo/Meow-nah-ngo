@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm an Computer Science student passionate about building software that creates real impact.
+I'm Thea an Computer Science student passionate about building software that creates real impact.
 
 I enjoy combining **Software Engineering**, **Artificial Intelligence**, **UX/UI Design**, and **Data Analytics** to transform ideas into products people genuinely love using.
 
